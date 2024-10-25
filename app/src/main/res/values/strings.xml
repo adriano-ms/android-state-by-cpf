@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StateByCPF</string>
+    <string name="tv_name">Adriano Maciel Sanchez</string>
+    <string name="tv_ra">1110482313018</string>
+    <string name="et_name">Nome</string>
+    <string name="et_cpf">CPF</string>
+    <string name="bt_verify">Verificar</string>
+    <string name="txt_invalid_name_exception">Nome inválido!</string>
+    <string name="txt_invalid_cpf_exception">CPF inválido!</string>
+    <string name="txt_error_alert_title">Erro!</string>
+    <string name="bt_back">Voltar</string>
+</resources>
